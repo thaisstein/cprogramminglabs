@@ -4,9 +4,9 @@
 Laboratories related to the Unix and C Programming Class (Telecom SudParis - Institut Polytechnique de Paris) made in the first school semester of 2022.
 
 ## Content
-- Comparison of slow and fast sorting algorithms
-- Linked lists
-- Binary trees
+- Comparison of slow and fast sorting algorithms (Lab 01 and 02)
+- Linked lists (Lab 03)
+- Binary trees (Lab 04)
 
 ## Reports
 For the first and second labs we were asked to provide reports to compare the results of the sorting algorithms used, as seen below:
