@@ -25,5 +25,7 @@ For the first and second labs we were asked to provide reports to compare the re
 - In the fourth graph, Selection Sort surpasses Insertion Sort, but all algorithms show increased slopes, indicating slower overall performance.
 
 ![Screen Shot 2023-11-04 at 5 16 08 PM](https://github.com/thaisstein/cprogramminglabs/assets/52481495/e2576181-330b-48da-9a3e-01ef4e32a7b3)
+
+  
 ![Screen Shot 2023-11-04 at 5 16 14 PM](https://github.com/thaisstein/cprogramminglabs/assets/52481495/6e12df20-14fc-48e7-8350-646f69b6e9e2)
 
